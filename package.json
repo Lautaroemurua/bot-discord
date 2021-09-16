@@ -1,0 +1,28 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "API Node Js for Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lautaroemurua/bot-discord.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord",
+    "Node",
+    "Js"
+  ],
+  "author": "Lautaro Ezequiel Murua",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Lautaroemurua/bot-discord/issues"
+  },
+  "homepage": "https://github.com/Lautaroemurua/bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
