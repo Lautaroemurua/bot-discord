@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/Lautaroemurua/bot-discord#readme",
   "dependencies": {
-    "discord.js": "^13.1.0"
+    "@discordjs/voice": "^0.6.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
   }
 }
